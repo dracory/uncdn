@@ -1,6 +1,6 @@
-# UNCDN <a href="https://gitpod.io/#https://github.com/gouniverse/uncdn" style="float:right:"><img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" loading="lazy"></a>
+# UNCDN <a href="https://gitpod.io/#https://github.com/dracory/uncdn" style="float:right:"><img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" loading="lazy"></a>
 
-![tests](https://github.com/gouniverse/uncdn/workflows/tests/badge.svg)
+![tests](https://github.com/dracory/uncdn/workflows/tests/badge.svg)
 
 CDNs are lovely, however there are certain drawbacks of using a CDN for your website may far outweigh the benefits.
 
@@ -23,7 +23,7 @@ This library is an attemp to take the control back from CDNs, while keeping all 
 ## Installation
 
 ```
-go get github.com/gouniverse/uncdn
+go get github.com/dracory/uncdn
 ```
 
 ## How to Use
