@@ -29,7 +29,7 @@ go get github.com/dracory/uncdn
 ## How to Use
 
 ```golang
-uncdn.JQuery360()
+uncdn.Jquery371()
 ```
 
 ## Notable Articles
@@ -42,33 +42,44 @@ uncdn.JQuery360()
 
 ### Bootstrap
 
-- BootstrapCss523() string
-- BootstrapJS523() string
-- BootstrapCeruleanCss523() string - the Cerulean theme
-- BootstrapYetiCss523() string - the Yeti theme
+- BootstrapCss533() string
+- BootstrapJs533() string
+- BootstrapCeruleanCss533() string - the Cerulean theme
+- BootstrapYetiCss533() string - the Yeti theme
 - + all the themes from: https://bootswatch.com/
 
 ### JQuery
 
+- Jquery371() string
 - Jquery360() string
 
 ### JQuery UI
 
-- JqueryUiCss1132() string
-- JqueryUiJs1132() string
+- JqueryUiCss1133() string
+- JqueryUiJs1133() string
 
-## Material Design Color Palette 1.1 
+### Material Design Color Palette 1.1
 source (https://github.com/zavoloklom/material-design-color-palette)
 
 - MaterialDesignColorPaletteCss11() string
 
+### Pico CSS
+
+- PicoCss206() string
+
 ### SweetAlert 2
 
-- SweetAlert2_11432() string
+- Sweetalert2_11150() string
+- Sweetalert2_11432() string
+
+### Trumbowyg
+
+- Trumbowyg2280Css() string
+- Trumbowyg2280Js() string
 
 ### VueJs 3
 
-- VuewJs3() string
+- VueJs3() string
 
 ### WebJS
 
